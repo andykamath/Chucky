@@ -1,0 +1,6 @@
+c:\users\andy\documents\visual studio 2013\Projects\Chucky\Chucky\bin\Debug\Chucky.exe.config
+c:\users\andy\documents\visual studio 2013\Projects\Chucky\Chucky\bin\Debug\Chucky.exe
+c:\users\andy\documents\visual studio 2013\Projects\Chucky\Chucky\bin\Debug\Chucky.pdb
+c:\users\andy\documents\visual studio 2013\Projects\Chucky\Chucky\obj\Debug\Chucky.csprojResolveAssemblyReference.cache
+c:\users\andy\documents\visual studio 2013\Projects\Chucky\Chucky\obj\Debug\Chucky.exe
+c:\users\andy\documents\visual studio 2013\Projects\Chucky\Chucky\obj\Debug\Chucky.pdb
